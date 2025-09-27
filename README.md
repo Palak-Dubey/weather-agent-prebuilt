@@ -14,6 +14,7 @@ A Python project that provides future weather forecasts for any city using a **p
 
 ## Project Structure
 weather-forecast-agent/
+
 │
 ├── test.py # Main agent script
 
